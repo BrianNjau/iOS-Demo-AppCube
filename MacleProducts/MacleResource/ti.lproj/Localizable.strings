@@ -1,0 +1,61 @@
+// Common
+"cancel" = "ሰርዝ";
+"confirm" = "እወ";
+"done" = "ይዛዝሙ";
+"notice" = "መዘኻኸሪ";
+"loading" = "ይፅዕን ኣሎ";
+"sub_pkg_loading" = "ይፅዕን ኣሎ";
+
+// API
+"cameraError" = "ካብ ሲስተም ናይ ካሜራ ፈቓድ ስለዘይተወሓበ ክጥቐሙ ኣይኽዕሉን";
+"photosError" = "ካብ ሲስተም ስለዘይተመኣራረየ ምስሊታት ክጥቐሙ ኣይኽዕሉን";
+"selectQRNotice" = "ንቲ ኪውኣር ንምምራፅ እታ ሰማያዊ ነጥቢ ይጠውቑ";
+"allowCameraAccess" = "[ናብ: ቅጥዕታት > ብሕታዊነትን ድሕነትን > ካሜራ > %@] ንሚኒ ፕሮግራም ናብ ካሜራ ክኣቱ ፍቐደሉ።";
+"allowPhotosAccess" = "[ናብ: ቅጥዕታት > ብሕታዊነትን ድሕነትን > ስእልታት > %@ ኪድ] ንሚኒ ፕሮግራም ስእልታት ክኣቱ ፍቐደሉ።";
+"takePhoto" = "ምስሊ የልዕሉ";
+"selectFromGallery" = "ካብ ምስሊታት ይምረፁ";
+"makePhoneCall_call" = "ደውል";
+
+// Menu
+"menu_rating" = "ብርኪ ግልጋሎት";
+"menu_reload" = "ምሕዳስ";
+"menu_settings" = "ምምዕርራይ";
+
+// Menu - Rating
+"rating_comment" = "መዘኻኸሪ";
+"rating_comment_placeholder" = "ናቶም ርዒቶ ንቐፃላይ ዝሓሸ ግልጋሎት ክንሕቦም ይሕገዘና እዩ";
+"rating_submit" = "ቐፃሊ";
+"rating_submit_success" = "ብርኪ ግልጋሎት ምሓብ ተሳኺዑ";
+"rating_submit_fail" = "ብርኪ ግልጋሎት ምሓብ ኣይተሳኸዐን፤ በይዝዖም ደጊሞም ይሞክሩ";
+
+// Menu - Settings (Authorization)
+"auth_location_name" = "ቦታ";
+"auth_location_desc" = "ዘለውዎ ቦታ ክርከብ እዩ";
+"auth_camera_name" = "ካሜራ";
+"auth_camera_desc" = "ካሜራ ኣብ ጥቕሚ ክውዕል እዩ";
+"auth_photoAlbums_name" = "ምስሊ";
+"auth_photoAlbums_desc" = "ምስሎም ክረኣይን ምምዕርራይ ክግበረሉን ፈቓድ ይወሓብ ኣሎ";
+"auth_contacts_name" = "መዝገብ ኣድራሻ";
+"auth_contacts_desc" = "ናይ መዝገብ ኣድራሻ  ኣብ ጥቕሚ ክውዕል እዩ";
+"auth_record_name" = "ማይክሮፎን";
+"auth_record_desc" = "ማይክሮፎኖም ይሰርሕ እዩ";
+"auth_your_authority" = "ናትካ %@";
+"auth_apply" = "ተግባራዊ ይኸውን እዩ";
+"auth_deny" = "ኸልክል";
+"auth_allow" = "ፍቐድ";
+"auth_setting_note" = "ንምጥቓም %@ ፈቓድ ሓብ";
+"autu_empty" = "ንምጥቓም ዝተፈቐደሉ መረዳዕታ ኣይረኸበን";
+"auth_desc" = "ናይ ተገልጋሊ ፍቓድ";
+"auth_requst_info" = "\"%@\" ዝስዕቡ ሓበሬታ ይሕተቱ";
+
+// Menu -miniApp detail
+"app_detail_go_2_mini_app" = "ናብ ሚኒ መተግበሪ  ይኽዱ";
+"app_detail_dev_team" = "ኣማዕበልቲ ጉጅለ";
+"app_detail_more_infos" = "ተወሳኺ ሓበሬታ";
+"app_detail_basic_info" = "መሰረታዊ ሓበሬታ";
+"app_detail_developer" = "ኣማዕበልቲ";
+"app_detail_update_time" = "ዝተሓደሰሉ እዋን";
+"app_detail_register_time" = "ዝተመዝገበሉ እዋን";
+"app_detail_terms_of_services" = "ናይ ኣገልግሎት ምሕደራ";
+"app_detail_service_statement" = "ናይ ኣገልግሎት መግለፂ";
+"app_detail_service_statement_detail" = "እዚ ኣገልግሎት ብኣማዕበልቲ ንሚኒ መተግበሪ ተገልገልቲ ዝቐረበ እዩ፡፡ እቶም ኣማዕበልቲ ንኣገልግሎቱ ሓበሬታ፣ ናይ ኣሰራርሓ ሓቐኝነት እና ሕጋውነቱ ሙሉእ ሓላፊነት ይወስዱ እዮም፡፡ ሚኒ መተግበሪ ን ኣማዕበልቲ ናይ ቴክኒክ ድጋፍ ኣገልግሎት ይህብ እዩ፡፡";

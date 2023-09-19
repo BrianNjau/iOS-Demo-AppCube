@@ -1,0 +1,37 @@
+{
+  "name": "MacleKit",
+  "version": "23.9.0",
+  "summary": "Macle IOS SDK",
+  "authors": "Front End Group",
+  "homepage": "Front End Group",
+  "source": {
+    "git": "",
+    "tag": ""
+  },
+  "license": "MIT",
+  "social_media_url": "",
+  "resource_bundles": {
+    "MacleResource": [
+      "MacleResource/*"
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "vendored_frameworks": "MacleKit.framework",
+  "dependencies": {
+    "SSZipArchive": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "TZImagePickerController": [
+
+    ],
+    "KSPhotoBrowser": [
+
+    ]
+  }
+}

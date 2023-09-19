@@ -1,0 +1,39 @@
+//
+//  PrefixHeader.pch
+//  MacleDemo
+//
+//  Created by gl on 2021/5/26.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <SDWebImage/SDInternalMacros.h>
+
+static NSString *PAGE_QUERY_ENV = @"page-query-env";
+static NSString *PAGE_QUERY_URL = @"page-query-url";
+static NSString *PAGE_QUERY_INDEX = @"page-query-index";
+static NSString *PAGE_QUERY_AUTH = @"page-query-auth";
+static NSString *MA_LOCAL_VERSION = @"ma-local-version-";
+static NSString *JS_SERVER_URL = @"js-server-url";
+static NSString *EVENT_REPORT_URL = @"event-report-url";
+static NSString *DEV_LOGIN_URL = @"dev_login_url";
+static NSString *DEV_TRIAL_URL = @"dev_trial_url";
+static NSString *DEV_NTK = @"dev-ntk";
+static NSString *DEV_NTK_TIME = @"dev-ntk-time";
+static NSString *SUB_PKG_URL = @"sub-pkg-url";
+static NSString *LATEST_VERSION_URL = @"latest-version-url";
+static NSString *QUERY_TOKEN_URL = @"query-token-url";
+
+static NSString *FEC_GREEN_CLOUD = @"FecG";
+static NSString *FEC_HOST = @"fecHost";
+static NSString *FRAMEWORK_URL = @"frameworkUrl";
+static NSString *THIRD_PARRT_ID = @"thirdPartyId";
+static NSString *FEC_GREEN_CLOUD_AUTH_URL = @"/wisecar/appcube/oauth/token/query";
+static NSString *FEC_GREEN_CLOUD_TOKEN_NAME = @"access-token";
+static NSString *FEC_GREEN_CLOUD_USER_NAME = @"macle-username";
+
+#endif /* PrefixHeader_pch */

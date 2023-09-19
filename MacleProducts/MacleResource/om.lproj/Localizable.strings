@@ -1,0 +1,61 @@
+// Common
+"cancel" = "Haqaa";
+"confirm" = "Tole";
+"done" = "Xumuruuf";
+"notice" = "Yaadannoo";
+"loading" = "Fe'amaa jira";
+"sub_pkg_loading" = "Fe'amaa jira";
+
+// API
+"cameraError" = "Rakkoo qindoomina siistemaa irra kan ka'e Kaameraa fayyadamuu hin dandeessan.";
+"photosError" = "Rakkoo qindoomina siistemaa irra kan ka'e suuraa fayyadamuu hin dandeessan.";
+"selectQRNotice" = "QR koodii filachuuf cuquliisa tuqaa";
+"allowCameraAccess" = "[Gara: Sajoo > Iccitii fi Nageenya > Kaameeraa > %@] Sagantaan Xiqqaa Kaameeraa akka argatu hayyami.";
+"allowPhotosAccess" = "[Gara: Sajoo > Iccitii fi Nageenya > Suuraalee > %@] Sagantaan Xiqqaa Suuraalee akka argatu hayyami.";
+"takePhoto" = "Suuraa fudhadhaa";
+"selectFromGallery" = "Suuraa keessaa filadhaa";
+"makePhoneCall_call" = "Bilbilaa";
+
+// Menu
+"menu_rating" = "Sadarkaa Kennuu";
+"menu_reload" = "Haaromsaa";
+"menu_settings" = "Qindoomina";
+
+// Menu - Rating
+"rating_comment" = "Yaada Kennuuf";
+"rating_comment_placeholder" = "Yaadni isin nuuf kennitan gara fuulduraatti akka sirritti isin tajaajiluuf nu gargaara.";
+"rating_submit" = "Xumuruuf";
+"rating_submit_success" = "Sadarkaa kennuun milkaa'ee jira.";
+"rating_submit_fail" = "Sadarkaa kennuun hin milkoofne irra deebi'aa yaalaa.";
+
+// Menu - Settings (Authorization)
+"auth_location_name" = "Bakka jireenya";
+"auth_location_desc" = "Bakki jireenyaa keessan ni fudhatama";
+"auth_camera_name" = "Kaameraa";
+"auth_camera_desc" = "Kaameeraan keessan ni argama";
+"auth_photoAlbums_name" = "Suuraa";
+"auth_photoAlbums_desc" = "Suuraan keessan ni dubbifama/barreeffama.";
+"auth_contacts_name" = "Qunnamtii";
+"auth_contacts_desc" = "Quunnamtiin keessan ni argama";
+"auth_record_name" = "Maaykiroofoonii";
+"auth_record_desc" = "Maaykiroofooniin keessan qophii dha";
+"auth_your_authority" = "%@ Keessan";
+"auth_apply" = "Gaafachuuf";
+"auth_deny" = "Haqaa";
+"auth_allow" = "Hayyamaa";
+"auth_setting_note" = "%@ Fayyadamuuf hayyamamaa";
+"autu_empty" = "Hayyamni galmee itti fayyadama  hin jiru.";
+"auth_desc" = "Hayyama Fayyadamaa";
+"auth_requst_info" = "\"%@\" Odeeffannoo armaan gadii gaafachuuf";
+
+// Menu -miniApp detail
+"app_detail_go_2_mini_app" = "Gara Mini app deemuuf";
+"app_detail_dev_team" = "Garee Misoomse";
+"app_detail_more_infos" = "Odeeffannoo dabalataaf";
+"app_detail_basic_info" = "Odeeffannoo Bu'uuraa";
+"app_detail_developer" = "Misoomsaa";
+"app_detail_update_time" = "Yeroo Haaromsaa";
+"app_detail_register_time" = "Yeroo Galmee";
+"app_detail_terms_of_services" = "Danbiiwwan Tajaajilaa";
+"app_detail_service_statement" = "Ibsa Tajaajilaa";
+"app_detail_service_statement_detail" = "Tajaajilli kun misoomsota irraa  fayyadamtoota Mini APP tiif kenname. Misoomsitoonni dhugummaa, seera qabeessummaa,fi ragaa odeeffannoo tajaajilaa, daataa, fi hojiif itti gaafatamummaa guutuu qabu.Mini APP tajaajila deeggarsa teeknikaa Misoomsotaaf  ni kenna.";

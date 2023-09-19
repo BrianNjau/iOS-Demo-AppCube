@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  MacleKit
+
+  Created by gl on 2021/9/1.
+  
+*/
+NSCameraUsageDescription = "应用需要使用您的相机";
+NSLocationAlwaysAndWhenInUseUsageDescription = "小程序需要使用您的位置信息";
+NSLocationAlwaysUsageDescription = "小程序需要使用您的位置信息";
+NSLocationWhenInUseUsageDescription = "小程序需要使用您的位置信息";
+NSPhotoLibraryAddUsageDescription = "应用需要访问您的相册";
+NSContactsUsageDescription = "应用需要访问您的联系人";
+NSMicrophoneUsageDescription = "应用需要使用您的麦克风";

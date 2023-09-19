@@ -1,0 +1,61 @@
+// Common
+"cancel" = "Cancel";
+"confirm" = "OK";
+"done" = "Done";
+"notice" = "Note";
+"loading" = "Loading";
+"sub_pkg_loading" = "Loading";
+
+// API
+"cameraError" = "Camera cannot be accessed due to system settings.";
+"photosError" = "Photos cannot be accessed due to system settings.";
+"selectQRNotice" = "Touch the blue dot to select the QR code.";
+"allowCameraAccess" = "[Go to: Settings > Privacy & Security > Camera > %@] Allow the Mini Program to access Camera.";
+"allowPhotosAccess" = "[Go to: Settings > Privacy & Security > Photos > %@] Allow the Mini Program to access Photos.";
+"takePhoto" = "Take a Photo";
+"selectFromGallery" = "Select from Gallery";
+"makePhoneCall_call" = "Call";
+
+// Menu
+"menu_rating" = "Rating";
+"menu_reload" = "Restart";
+"menu_settings" = "Settings";
+
+// Menu - Rating
+"rating_comment" = "Comment";
+"rating_comment_placeholder" = "Your suggestions will help us serve you better in the future.";
+"rating_submit" = "Submit";
+"rating_submit_success" = "Rating succeeded.";
+"rating_submit_fail" = "Rating failed. Please try again.";
+
+// Menu - Settings (Authorization)
+"auth_location_name" = "Location";
+"auth_location_desc" = "Your Location will be obtained.";
+"auth_camera_name" = "Camera";
+"auth_camera_desc" = "Your Camera will be accessed.";
+"auth_photoAlbums_name" = "Photos";
+"auth_photoAlbums_desc" = "Your Photos will be read/written.";
+"auth_contacts_name" = "Contacts";
+"auth_contacts_desc" = "Your Contacts will be accessed.";
+"auth_record_name" = "Microphone";
+"auth_record_desc" = "Your Microphone will be accessed.";
+"auth_your_authority" = "your %@";
+"auth_apply" = "applies for";
+"auth_deny" = "Reject";
+"auth_allow" = "Allow";
+"auth_setting_note" = "Allow \"%@\" to use";
+"autu_empty" = "No permission usage record found.";
+"auth_desc" = "User Authorization";
+"auth_requst_info" = "\"%@\" request following information";
+
+// Menu -miniApp detail
+"app_detail_go_2_mini_app" = "Go to Mini App";
+"app_detail_dev_team" = "Development team";
+"app_detail_more_infos" = "More information";
+"app_detail_basic_info" = "Basic information";
+"app_detail_developer" = "Developer";
+"app_detail_update_time" = "Update time";
+"app_detail_register_time" = "Register time";
+"app_detail_terms_of_services" = "Terms of Services";
+"app_detail_service_statement" = "Service Statement";
+"app_detail_service_statement_detail" = "This service is provided by developers to Mini APP users. Developers are fully responsible for the authenticity, legality,and validity of the service information, data, and operations.Mini APP provides technical support services for developers.";

@@ -1,0 +1,61 @@
+// Common
+"cancel" = "منسوخ کریں";
+"confirm" = "ٹھیک ہے";
+"done" = "ہو گیا";
+"notice" = "نوٹ";
+"loading" = "لوڈ ہو رہا ہے";
+"sub_pkg_loading" = "لوڈ ہو رہا ہے";
+
+// API
+"cameraError" = "سسٹم کی ترتیبات کی وجہ سے کیمرہ تک رسائی حاصل نہیں کی جا سکتی۔";
+"photosError" = "سسٹم کی ترتیبات کی وجہ سے تصاویر تک رسائی حاصل نہیں کی جا سکتی۔";
+"selectQRNotice" = "QR کوڈ کو منتخب کرنے کے لیے نیلے نقطے کو چھوئیں۔";
+"allowCameraAccess" = "[مندرجہ ذیل پر جائیں: ترتیبات > رازداری اور سکیورٹی > کیمرہ > %@] منی پروگرام کو کیمرہ تک رسائی حاصل کرنے کی اجازت دیں۔";
+"allowPhotosAccess" = "[مندرجہ ذیل پر جائیں: ترتیبات > رازداری اور سکیورٹی > تصاویر > %@] منی پروگرام کو تصاویر تک رسائی حاصل کرنے کی اجازت دیں۔";
+"takePhoto" = "ایک تصویر کھینچیں";
+"selectFromGallery" = "تصاویر میں سے منتخب کریں";
+"makePhoneCall_call" = "کال کریں";
+
+// Menu
+"menu_rating" = "درجہ بندی";
+"menu_reload" = "ری اسٹارٹ کریں";
+"menu_settings" = "ترتیبات";
+
+// Menu - Rating
+"rating_comment" = "تبصرہ";
+"rating_comment_placeholder" = "آپ کی تجاویز مستقبل میں آپ کی بہتر خدمت کرنے میں ہماری مدد کریں گی۔";
+"rating_submit" = "جمع کروائیں";
+"rating_submit_success" = "درجہ بندی کامیاب ہو گئی۔";
+"rating_submit_fail" = "درجہ بندی ناکام ہو گئی۔ برام کرم دوبارہ کوشش کریں۔";
+
+// Menu - Settings (Authorization)
+"auth_location_name" = "مقام";
+"auth_location_desc" = "آپ کا مقام حاصل کیا جائے گا۔";
+"auth_camera_name" = "کیمرہ";
+"auth_camera_desc" = "آپ کے کیمرہ تک رسائی حاصل کی جائے گی۔";
+"auth_photoAlbums_name" = "تصاویر";
+"auth_photoAlbums_desc" = "آپ کی تصاویر پڑھی/لکھی جائیں گی۔";
+"auth_contacts_name" = "رابطے";
+"auth_contacts_desc" = "آپ کے رابطے تک رسائی حاصل کی جائے گی۔";
+"auth_record_name" = "مائیکروفون";
+"auth_record_desc" = "آپ کے مائیکروفون تک رسائی حاصل کی جائے گی.";
+"auth_your_authority" = "پر لاگو ہوتی ہے %@";
+"auth_apply" = "کی آپ";
+"auth_deny" = "مسترد کریں";
+"auth_allow" = "اجازت دیں";
+"auth_setting_note" = "‏%@ کو استعمال کرنے کی اجازت دیں";
+"autu_empty" = "اجازت کے استعمال کا کوئی ریکارڈ نہیں ملا۔";
+"auth_desc" = "صارف کی اجازت";
+"auth_requst_info" = "\"%@\" مندرجہ ذیل معلومات کی درخواست کریں";
+
+// Menu -miniApp detail
+"app_detail_go_2_mini_app" = "مینی ایپ پر جائیں";
+"app_detail_dev_team" = "ترقی کی ٹیم";
+"app_detail_more_infos" = "مزید معلومات";
+"app_detail_basic_info" = "بنیادی معلومات";
+"app_detail_developer" = "ڈیولپر";
+"app_detail_update_time" = "اپ ڈیٹ وقت";
+"app_detail_register_time" = "رجسٹر وقت";
+"app_detail_terms_of_services" = "خدمات کی شرائط";
+"app_detail_service_statement" = "سروس کا بیان";
+"app_detail_service_statement_detail" = "یہ سروس مینی اے پی پی صارفین کو ڈویلپرز کی طرف سے فراہم کی جاتی ہے. ڈویلپرز سروس کی معلومات، ڈیٹا، اور آپریشن کی صداقت، قانونی حیثیت، اور موزونیت کے لئے مکمل طور پر ذمہ دار ہیں. مینی اے پی پی ڈویلپرز کے لئے تکنیکی مدد کی خدمات فراہم کرتا ہے.";

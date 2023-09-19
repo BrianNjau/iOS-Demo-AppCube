@@ -1,0 +1,59 @@
+// Common
+"cancel" = "ပယ်ဖျက်မည်";
+"confirm" = "အိုကေ";
+"done" = "ပြီးပြီ";
+"notice" = "မှတ်ချက်";
+"loading" = "လုပ်ဆောင်နေပါသည်";
+"sub_pkg_loading" = "လုပ်ဆောင်နေပါသည်";
+// API
+"cameraError" = "စနစ်ဆက်တင်များကြောင့် ကင်မရာကို ဝင်ရောက်သုံးစွဲ၍မရပါ။";
+"photosError" = "စနစ်ဆက်တင်များကြောင့် ဓာတ်ပုံများကို ဝင်ရောက်သုံးစွဲ၍မရပါ။";
+"selectQRNotice" = "QR ကုဒ်ကို ရွေးချယ်ရန် အပြာရောင်အစက်ကို နှိပ်ပါ။";
+"allowCameraAccess" = "[သွားပါ- ဆက်တင် > ကိုယ်ရေးလုံခြုံမှုနှင့် လုံခြုံရေး > ကင်မရာ > %@] မီနီပရိုဂရမ်အား ကင်မရာအသုံးပြုခွင့်ပေးရန်။";
+"allowPhotosAccess" = "[သွားပါ- ဆက်တင် > ကိုယ်ရေးလုံခြုံမှုနှင့် လုံခြုံရေး > ဓာတ်ပုံများ > %@] မီနီပရိုဂရမ်အား ဓာတ်ပုံများအသုံးပြုခွင့်ပေးရန်။";
+"takePhoto" = "ဓာတ်ပုံရိုက်မည်";
+"selectFromGallery" = "ဓာတ်ပုံများမှ ရွေးချယ်မည်";
+"makePhoneCall_call" = "ဖုန်းခေါ်မည်";
+
+// Menu
+"menu_rating" = "အဆင့်";
+"menu_reload" = "Restart";
+"menu_settings" = "Settings";
+
+// Menu - Rating
+"rating_comment" = "ထင်မြင်ချက်";
+"rating_comment_placeholder" = "သင်၏ အကြံပြုချက်များသည် နောင်တွင် သင့်အား ပိုမိုကောင်းမွန်စွာ ဝန်ဆောင်မှုပေးနိုင်ရန် ကျွန်ုပ်တို့ကို ကူညီပါမည်။";
+"rating_submit" = "ပေးပို့မည်";
+"rating_submit_success" = "အဆင့်သတ်မှတ်ခြင်း အောင်မြင်သည်။";
+"rating_submit_fail" = "အဆင့်သတ်မှတ်ခြင်း မအောင်မြင်ပါ။ ထပ်မံကြိုးစားပေးပါ။";
+
+// Menu - Settings (Authorization)
+"auth_location_name" = "တည်နေရာ";
+"auth_location_desc" = "သင့်တည်နေရာကို ရယူပါမည်။";
+"auth_camera_name" = "ကင်မရာ";
+"auth_camera_desc" = "သင့်ကင်မရာကို ဝင်ရောက်သုံးစွဲပါမည်။";
+"auth_photoAlbums_name" = "ဓာတ်ပုံများ";
+"auth_photoAlbums_desc" = "သင့်ဓာတ်ပုံများကို ဖတ်/ရေးပါမည်။";
+"auth_your_authority" = "%@နှင့် သက်ဆိုင်သည်";
+"auth_apply" = "သည် သင့်";
+"auth_contacts_name" = "အဆက်အသွယ်";
+"auth_contacts_desc" = "သင့်အဆက်အသွယ်ကို ဝင်ရောက်သုံးစွဲပါမည်။";
+"auth_record_name" = "ဖုန်း";
+"auth_record_desc" = "သင့်ဖုန်းဖြင့်အသုံးပြုခွင့်ရရှိပါသည်။";
+"auth_deny" = "ငြင်းပယ်မည်";
+"auth_allow" = "ခွင့်ပြုမည်";
+"auth_setting_note" = "%@ အား သုံးခွင့်ပြုရန်";
+"autu_empty" = "ခွင့်ပြုချက်အသုံးပြုမှုမှတ်တမ်းကို မတွေ့ပါ။";
+"auth_desc" = "အသုံးပြုသူခွင့်ပြုချက်";
+"auth_requst_info" = "\"%@\" အောက်ပါအချက်အလက်များကိုတောင်းဆိုပါ။";
+// Menu -miniApp detail
+"app_detail_go_2_mini_app" = "Mini App သို့သွားပါ။";
+"app_detail_dev_team" = "Development team";
+"app_detail_more_infos" = "အချက်အလက်များ";
+"app_detail_basic_info" = "အခြေခံအချက်အလက်";
+"app_detail_developer" = "ဆော့ဝဲဖ် အင်ဂျင်နီယာ";
+"app_detail_update_time" = "Update အချိန်";
+"app_detail_register_time" = "မှတ်ပုံတင်အချိန်";
+"app_detail_terms_of_services" = "ဝန်ဆောင်မှု စည်းမျဉ်းစည်းကမ်း";
+"app_detail_service_statement" = "ဝန်ဆောင်မှု ကြေငြာချက်";
+"app_detail_service_statement_detail" = "ဤဝန်ဆောင်မှုကို Mini APP အသုံးပြုသူများအတွက် ဆော့ဖ်ဝဲအင်ဂျင်နီယာများက ပံ့ပိုးပေးပါသည်။ ဆော့ဖ်ဝဲရေးသားသူများသည် ဝန်ဆောင်မှုအချက်အလက်များ၊ ဒေတာနှင့် လုပ်ငန်းဆောင်ရွက်မှုများ၏ စစ်မှန်မှု၊ တရားဝင်မှုနှင့် အကျုံးဝင်မှုတို့အတွက် အပြည့်အဝ တာဝန်ရှိပါသည်။ Mini APP သည် developer များအတွက် နည်းပညာပိုင်းဆိုင်ရာ ပံ့ပိုးမှုဝန်ဆောင်မှုများကို ပေးဆောင်ပါသည်။";

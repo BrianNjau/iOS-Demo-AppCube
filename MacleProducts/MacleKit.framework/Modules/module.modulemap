@@ -1,0 +1,6 @@
+framework module MacleKit {
+  umbrella header "MacleKit.h"
+
+  export *
+  module * { export * }
+}

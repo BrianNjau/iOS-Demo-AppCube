@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  MacleKit
+
+  Created by gl on 2021/9/1.
+  
+*/
+NSCameraUsageDescription = "Used to photo";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Location Always And When In Use";
+NSLocationAlwaysUsageDescription = "Location Always";
+NSLocationWhenInUseUsageDescription = "Location When In Use";
+NSPhotoLibraryAddUsageDescription = "Used to open photo library";
+NSContactsUsageDescription = "Used to open contact";

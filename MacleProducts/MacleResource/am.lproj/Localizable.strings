@@ -1,0 +1,61 @@
+// Common
+"cancel" = "ይቅር";
+"confirm" = "እሺ";
+"done" = "ተከናውኗል";
+"notice" = "ማስታወሻ";
+"loading" = "በመጫን ላይ";
+"sub_pkg_loading" = "በመጫን ላይ";
+
+// API
+"cameraError" = "በስርዓት ቅንብሮች ምክንያት ካሜራ ሊደረስበት አይችልም።";
+"photosError" = "በስርዓት ቅንብሮች ምክንያት ፎቶዎች ሊደረስበት አይችልም።";
+"selectQRNotice" = "QR ኮዱን ለመምረጥ ሰማያዊ ነጥቡን ይንኩ።";
+"allowCameraAccess" = "[ሂድ ወደ፦ ቅንብሮች > ግላዊነት እና ደህንነት > ካሜራ > %@] ሚኒ ፕሮግራም ካሜራን እንዲደርስበት ፍቀድ።";
+"allowPhotosAccess" = "[ሂድ ወደ፦ ቅንብሮች > ግላዊነት እና ደህንነት > ፎቶዎች > %@] ሚኒ ፕሮግራም ፎቶዎችን እንዲደርስበት ፍቀድ።";
+"takePhoto" = "ፎቶ አንሳ";
+"selectFromGallery" = "ከፎቶዎች ምረጥ";
+"makePhoneCall_call" = "ደውል";
+
+// Menu
+"menu_rating" = "የተሰጠው ደረጃ";
+"menu_reload" = "ዳግም አስነሳ";
+"menu_settings" = "ቅንብሮች";
+
+// Menu - Rating
+"rating_comment" = "አሰተያየት ስጥ";
+"rating_comment_placeholder" = "የእርስዎ ጥቆማዎች ለወደፊት በተሻለ ሁኔታ እንድናገለግለዎት ያስችሉናል።";
+"rating_submit" = "አስገባ";
+"rating_submit_success" = "ደረጃ መስጠት ተሳክቷል።";
+"rating_submit_fail" = "ደረጃ መስጠት አልተሳካም። እባክዎ እንደገና ይሞክሩ።";
+
+// Menu - Settings (Authorization)
+"auth_location_name" = "አካባቢ";
+"auth_location_desc" = "የእርስዎ አካባቢ ይገኛል።";
+"auth_camera_name" = "ካሜራ";
+"auth_camera_desc" = "የእርስዎ ካሜራ ይደረስበታል።";
+"auth_photoAlbums_name" = "ፎቶዎች";
+"auth_photoAlbums_desc" = "የእርስዎ ፎቶዎች ይነበባል/ይጻፍበታል።";
+"auth_contacts_name" = "እውቂያዎች";
+"auth_contacts_desc" = "የእርስዎ እውቂያዎች ይደረስበታል።";
+"auth_record_name" = "ማይክሮፎን";
+"auth_record_desc" = "ማይክሮፎንዎያገለግላል";
+"auth_your_authority" = "%@ ላይ ይተገበራል";
+"auth_apply" = "በእርስዎ";
+"auth_deny" = "አትቀበል";
+"auth_allow" = "ፍቀድ";
+"auth_setting_note" = "%@ እነዚህን እንዲጠቀም ፍቀድለት፦";
+"autu_empty" = "ምንም የፈቃድ አጠቃቀም መዝገብ አልተገኘም።";
+"auth_desc" = "የተጠቃሚ ፍቃድ";
+"auth_requst_info" = "\"%@\" የሚከተለውን መረጃ ይጠይቁ";
+
+// Menu -miniApp detail
+"app_detail_go_2_mini_app" = "ወደ ሚኒ መተግበሪያ ይሂዱ";
+"app_detail_dev_team" = "አበልፃጊ ቡድን";
+"app_detail_more_infos" = "ተጨማሪ መረጃ";
+"app_detail_basic_info" = "መሰረታዊ መረጃ";
+"app_detail_developer" = "አበልፃጊ";
+"app_detail_update_time" = "የዘመነበት ጊዜ";
+"app_detail_register_time" = "የመመዝገቢያ ጊዜ";
+"app_detail_terms_of_services" = "የአገልግሎት ደንብ";
+"app_detail_service_statement" = "የአገልግሎት መግለጫ";
+"app_detail_service_statement_detail" = "ይህ አገልግሎት በአበልፃጊዎች ለሚኒ መተግበሪያ ተጠቃሚዎች የቀረበ ነው ። አበልፃጊው ለአገልግሎቱ መረጃ እና አሠራሮች  ርግጠኝነት፣ ትክክለኛነት  እና ህጋዊነት  ሙሉ ኃላፊነት አለበት። ሚኒ መተግበሪያው ለአበልፃጊዎች የቴክኒክ ድጋፍ አገልግሎቶችን ይሰጣል።";

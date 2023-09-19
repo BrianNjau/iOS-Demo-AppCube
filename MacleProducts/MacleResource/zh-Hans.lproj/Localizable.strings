@@ -1,0 +1,61 @@
+// Common
+"cancel" = "取消";
+"confirm" = "确定";
+"done" = "完成";
+"notice" = "提示";
+"loading" = "加载中";
+"sub_pkg_loading" = "分包加载中…";
+
+// API
+"cameraError" = "由于系统原因, 无法访问相机";
+"photosError" = "由于系统原因, 无法访问照片";
+"selectQRNotice" = "轻触小蓝点，选中识别二维码";
+"allowCameraAccess" = "[[前往：设置 - 隐私与安全性 - 相机 - %@] 允许应用访问相机";
+"allowPhotosAccess" = "[[前往：设置 - 隐私与安全性 - 照片 - %@] 允许应用访问照片";
+"takePhoto" = "拍照";
+"selectFromGallery" = "从手机相册选择";
+"makePhoneCall_call" = "呼叫";
+
+// Menu
+"menu_rating" = "评分";
+"menu_reload" = "重新加载";
+"menu_settings" = "设置";
+
+// Menu - Rating
+"rating_comment" = "评论";
+"rating_comment_placeholder" = "请填写建议帮助我们变得更好";
+"rating_submit" = "提交";
+"rating_submit_success" = "评分成功！";
+"rating_submit_fail" = "评分失败，请重试！";
+
+// Menu - Settings (Authorization)
+"auth_location_name" = "位置信息";
+"auth_location_desc" = "将获取你的位置信息";
+"auth_camera_name" = "摄像头权限";
+"auth_camera_desc" = "将使用你的摄像头";
+"auth_photoAlbums_name" = "相册权限";
+"auth_photoAlbums_desc" = "将读取/写入你的相册";
+"auth_contacts_name" = "通讯录";
+"auth_contacts_desc" = "将访问你的通讯录";
+"auth_record_name" = "麦克风权限";
+"auth_record_desc" = "将使用你的麦克风";
+"auth_your_authority" = "你的%@";
+"auth_apply" = "申请";
+"auth_deny" = "拒绝";
+"auth_allow" = "允许";
+"auth_setting_note" = "允许\"%@\"使用";
+"autu_empty" = "暂无权限使用记录";
+"auth_desc" = "用户授权";
+"auth_requst_info" = "\"%@\"请求以下信息";
+
+// Menu -miniApp detail
+"app_detail_go_2_mini_app" = "转到小程序";
+"app_detail_dev_team" = "开发团队";
+"app_detail_more_infos" = "更多信息";
+"app_detail_basic_info" = "基本信息";
+"app_detail_developer" = "开发者";
+"app_detail_update_time" = "更新时间";
+"app_detail_register_time" = "注册时间";
+"app_detail_terms_of_services" = "服务条款";
+"app_detail_service_statement" = "服务声明";
+"app_detail_service_statement_detail" = "本服务由开发者提供给小程序用户。开发者对服务信息、数据和操作的真实性、合法性和有效性负全部责任，小程序为开发者提供技术支持服务。";
